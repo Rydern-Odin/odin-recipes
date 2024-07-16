@@ -6,8 +6,8 @@ Creating a simple Recipes Webpage to demonstrate working knowledge of HTML learn
 
 1st Iteration: Being able to create our index.html file and setup.
 
-2nd Iteration: Creating a secondary page and elements such as <a>.
+2nd Iteration: Creating a secondary page and anchor elements.
 
-3rd Iteration: Showing Working knowledge of elements such as <img> Images, <p> Paragraph, <ul> Unorderd list, <ol> Ordered List, and <li> List.
+3rd Iteration: Showing Working knowledge of elements such as Images,  Paragraph, Unorderd list, Ordered List, and List and how to access Parent directories to allow elements to access the proper directories.
 
 4th Iteration: This iteration is to show the working knowledge is reproducable.
