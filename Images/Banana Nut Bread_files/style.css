@@ -1,0 +1,40 @@
+body{
+    background-color:bisque;
+}
+
+.header{
+    color: gold;
+    background-color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    border-style: ridge;
+}
+
+#Sub{
+    font-size: 30px;
+}
+
+.list{
+    color:purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    border-style: solid;
+    text-align: right;
+}
+
+
+img{
+    height: 500px;
+    width: 1400px;
+    border-style: double;
+    box-shadow: inset;
+}
+
+.Paragraph{
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}

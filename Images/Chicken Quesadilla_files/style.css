@@ -1,0 +1,26 @@
+h1{
+    color:gold;
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.list{
+    color:blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:justify;
+
+}
+
+
+img{
+    height: 500px;
+    width: 1200px;
+    background-color: black;
+}
+
+.Paragraph{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
